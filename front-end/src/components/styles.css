@@ -1,0 +1,74 @@
+.fieldSet {
+    background-color: #eeeeee;
+}
+
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+
+  .App {
+    text-align: center;
+  }
+.width {
+  width: 40%;
+}
+
+.margin {
+  margin-left: 38%;
+}
+
+.margin-right {
+  margin-right: 5%;
+}
+
+.margin-bottom {
+  margin-bottom: 3%;
+}
+
+.text-area {
+      margin: 0px;
+    width: 540px;
+    height: 97px;
+}
+
+.vertical { 
+  border-left: 6px solid black;
+  height: 84%;
+  position: absolute;
+  left: 45%;
+  top: 109px;
+} 
+
+.right-component { 
+  position: absolute;
+  left: 60%;
+  top: 109px;
+} 
+
+.table-position {
+  position: absolute;
+  left: 46%;
+  top: 169px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
